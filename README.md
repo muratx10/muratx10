@@ -8,7 +8,14 @@ My name's **Murat**. I'm a Frontend Engineer.
 
 
 Check out [my full CV][resume] to see if my skills would be helpful to your team.
-<br/><br/><br/>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
 #### :white_check_mark: Have experience with:
 
 <br/>
