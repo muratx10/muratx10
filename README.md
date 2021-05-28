@@ -50,7 +50,7 @@ Check out [my full CV][resume] to see if my skills would be helpful to your team
  <a href="https://www.adobe.com/ru/products/photoshop.html"><code><img alt="photoshop" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" /></code></a>
 </p>
 
-![](https://img.shields.io/github/last-commit/va-z/va-z?label=readme%20last%20updated&logo=github&logoColor=green&style=for-the-badge)
+![](https://img.shields.io/github/last-commit/muratx10/muratx10?label=readme%20last%20updated&logo=github&logoColor=green&style=for-the-badge)
 
 [resume]: https://drive.google.com/file/d/10RCtZaMN-t9-YQ9lmsm16o2PF35RTHiy/view
 [comment]: <> (Resume is displayed using the google docs viewer trick)
