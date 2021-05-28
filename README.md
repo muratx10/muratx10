@@ -11,6 +11,8 @@ Check out [my full résumé][resume] to see if my skills would be helpful to you
 
 #### :white_check_mark: Have experience with:
 
+<br/>
+
 <p>
  <a href="https://www.javascript.com"><code><img alt="JavaScript" height="40px" src="https://cdn.svgporn.com/logos/javascript.svg" /></code></a>
  <a href="https://www.javascript.com"><code><img alt="TypeScript" height="40px" src="https://cdn.svgporn.com/logos/typescript.svg" /></code></a>
