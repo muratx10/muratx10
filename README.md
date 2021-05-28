@@ -7,7 +7,7 @@
 My name's **Murat**. I'm a Frontend Engineer.
 
 
-Check out [my full résumé][resume] to see if my skills would be helpful to your team.
+Check out [my full CV][resume] to see if my skills would be helpful to your team.
 <br/><br/><br/>
 #### :white_check_mark: Have experience with:
 
@@ -52,6 +52,6 @@ Check out [my full résumé][resume] to see if my skills would be helpful to you
 
 ![](https://img.shields.io/github/last-commit/va-z/va-z?label=readme%20last%20updated&logo=github&logoColor=green&style=for-the-badge)
 
-[resume]: https://docs.google.com/viewer?url=https://github.com/va-z/va-z/blob/develop/frontend_developer_vasili_zadorojnyuk.pdf?raw=true
+[resume]: https://drive.google.com/file/d/10RCtZaMN-t9-YQ9lmsm16o2PF35RTHiy/view
 [comment]: <> (Resume is displayed using the google docs viewer trick)
 [comment]: <> (URL is: https://docs.google.com/viewer?url={link_to_raw_pdf})
