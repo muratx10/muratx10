@@ -34,6 +34,7 @@ Check out [my full résumé][resume] to see if my skills would be helpful to you
 
 <p>
  <a href="https://archlinux.org/"><code><img alt="ArchLinux" height="40px" src="https://cdn.svgporn.com/logos/archlinux.svg" /></code></a>
+ <a href="https://lp.jetbrains.com/webstorm-ide/?gclid=CjwKCAjwqcKFBhAhEiwAfEr7zdXEy0V6aAqOarZazg-gWFG5wbRodvUGGfZekTo2fp0rAglgA8fGNRoCmzIQAvD_BwE&gclsrc=aw.ds"><code><img alt="WebStorm" height="40px" src="https://cdn.svgporn.com/logos/webstorm.svg" /></code></a>
  <a href="https://gulpjs.com"><code><img alt="gulp" height="40px" src="https://cdn.svgporn.com/logos/gulp.svg" /></code></a>
  <a href="https://babeljs.io"><code><img alt="babel" height="40px" src="https://cdn.svgporn.com/logos/babel.svg" /></code></a>
  <a href="https://eslint.org"><code><img alt="eslint" height="40px" src="https://cdn.svgporn.com/logos/eslint.svg" /></code></a>
@@ -44,7 +45,6 @@ Check out [my full résumé][resume] to see if my skills would be helpful to you
  <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><code><img alt="bash" height="40px" src="https://cdn.svgporn.com/logos/bash-icon.svg" /></code></a>
  <a href="https://www.markdownguide.org"><code><img alt="markdown" height="40px" src="https://cdn.svgporn.com/logos/markdown.svg" /></code></a>
  <a href="https://github.com"><code><img alt="github" height="40px" src="https://cdn.svgporn.com/logos/github-icon.svg" /></code></a>
- <a href="https://code.visualstudio.com"><code><img alt="vscode" height="40px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" /></code></a>
  <a href="https://figma.com"><code><img alt="figma" height="40px" src="https://cdn.svgporn.com/logos/figma.svg" /></code></a>
  <a href="https://www.adobe.com/ru/products/photoshop.html"><code><img alt="photoshop" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" /></code></a>
 </p>
