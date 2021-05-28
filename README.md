@@ -1,6 +1,8 @@
 ### Hi there :metal:
 
 <img align="right" alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=muratx10&count_private=true&bg_color=0,C04848,480048&title_color=fff&text_color=fff&&icon_color=fff&hide=stars,issues&show_icons=true" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?muratx10=anuraghazra&count_private=true)
+
 
 Name's **Murat** and I build stuff, mostly in JavaScript.
 
