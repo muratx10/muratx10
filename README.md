@@ -4,7 +4,7 @@
 
 
 
-Name's **Murat** and I build stuff, mostly in JavaScript.
+My name's **Murat**. I'm a Frontend Engineer.
 
 
 Check out [my full résumé][resume] to see if my skills would be helpful to your team.
@@ -13,6 +13,7 @@ Check out [my full résumé][resume] to see if my skills would be helpful to you
 
 <p>
  <a href="https://www.javascript.com"><code><img alt="JavaScript" height="40px" src="https://cdn.svgporn.com/logos/javascript.svg" /></code></a>
+ <a href="https://www.javascript.com"><code><img alt="TypeScript" height="40px" src="https://cdn.svgporn.com/logos/typescript.svg" /></code></a>
  <a href="https://en.wikipedia.org/wiki/HTML"><code><img alt="HTML5" height="40px" src="https://cdn.svgporn.com/logos/html-5.svg" /></code></a>
  <a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets"><code><img alt="CSS3" height="40px" src="https://cdn.svgporn.com/logos/css-3.svg" /></code></a>
  <a href="https://sass-lang.com"><code><img alt="Sass" height="40px" src="https://cdn.svgporn.com/logos/sass.svg" /></code></a>
