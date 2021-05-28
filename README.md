@@ -45,6 +45,7 @@ Check out [my full résumé][resume] to see if my skills would be helpful to you
  <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><code><img alt="bash" height="40px" src="https://cdn.svgporn.com/logos/bash-icon.svg" /></code></a>
  <a href="https://www.markdownguide.org"><code><img alt="markdown" height="40px" src="https://cdn.svgporn.com/logos/markdown.svg" /></code></a>
  <a href="https://github.com"><code><img alt="github" height="40px" src="https://cdn.svgporn.com/logos/github-icon.svg" /></code></a>
+ <a href="https://www.atlassian.com/software/jira"><code><img alt="Jira" height="40px" src="https://cdn.svgporn.com/logos/jira.svg" /></code></a>
  <a href="https://figma.com"><code><img alt="figma" height="40px" src="https://cdn.svgporn.com/logos/figma.svg" /></code></a>
  <a href="https://www.adobe.com/ru/products/photoshop.html"><code><img alt="photoshop" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" /></code></a>
 </p>
