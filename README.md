@@ -1,10 +1,9 @@
-### Sup :metal:
+### Hi there :metal:
 
 <img align="right" alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=va-z&count_private=true&bg_color=0,C04848,480048&title_color=fff&text_color=fff&&icon_color=fff&hide=stars,issues&show_icons=true" />
 
 Name's **Murat** and I build stuff, mostly in JavaScript.
 
-Currently looking for work as a Front-end Developer.
 
 Check out [my full résumé][resume] to see if my skills would be helpful to your team.
 
@@ -20,14 +19,6 @@ Check out [my full résumé][resume] to see if my skills would be helpful to you
  <a href="https://d3js.org"><code><img alt="D3" height="40px" src="https://cdn.svgporn.com/logos/d3.svg" /></code></a>
  <a href="https://www.chartjs.org"><code><img alt="chartjs" height="40px" src="https://www.chartjs.org/img/chartjs-logo.svg" /></code></a>
  <a href="https://leafletjs.com"><code><img alt="leaflet" height="40px" src="https://cdn.svgporn.com/logos/leaflet.svg" /></code></a>
-</p>
-
-#### :books: Currently studying:
-
-<p>
- <a href="https://www.typescriptlang.org"><code><img alt="typescript" height="40px" src="https://cdn.svgporn.com/logos/typescript-icon.svg" /></code></a>
- <a href="https://nodejs.org/en"><code><img alt="node" height="40px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg" /></code></a>
- <a href="https://firebase.google.com"><code><img alt="firebase" height="40px" src="https://cdn.svgporn.com/logos/firebase.svg" /></code></a>
 </p>
 
 #### :wrench: Known tools and other software:
