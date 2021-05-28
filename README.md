@@ -33,7 +33,6 @@ Check out [my full résumé][resume] to see if my skills would be helpful to you
 #### :wrench: Known tools and other software:
 
 <p>
- >
  <a href="https://archlinux.org/"><code><img alt="ArchLinux" height="40px" src="https://cdn.svgporn.com/logos/archlinux.svg" /></code></a>
  <a href="https://gulpjs.com"><code><img alt="gulp" height="40px" src="https://cdn.svgporn.com/logos/gulp.svg" /></code></a>
  <a href="https://babeljs.io"><code><img alt="babel" height="40px" src="https://cdn.svgporn.com/logos/babel.svg" /></code></a>
