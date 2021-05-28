@@ -25,12 +25,16 @@ Check out [my full résumé][resume] to see if my skills would be helpful to you
  <a href="https://redux-saga.js.org/"><code><img alt="Saga" height="40px" src="https://cdn.svgporn.com/logos/redux-saga.svg" /></code></a>
  <a href="https://www.chartjs.org"><code><img alt="chartjs" height="40px" src="https://www.chartjs.org/img/chartjs-logo.svg" /></code></a>
  <a href="https://www.postgresql.org/"><code><img alt="PostgreSQL" height="40px" src="https://cdn.svgporn.com/logos/postgresql.svg" /></code></a>
+ <a href="https://jestjs.io"><code><img alt="jest" height="40px" src="https://cdn.svgporn.com/logos/jest.svg" /></code></a>
+ <a href="https://webpack.js.org"><code><img alt="webpack" height="40px" src="https://cdn.svgporn.com/logos/webpack.svg" /></code></a
+ <a href="https://git-scm.com"><code><img alt="git" height="40px" src="https://cdn.svgporn.com/logos/git-icon.svg" /></code></a>
 </p>
 
 #### :wrench: Known tools and other software:
 
 <p>
- <a href="https://webpack.js.org"><code><img alt="webpack" height="40px" src="https://cdn.svgporn.com/logos/webpack.svg" /></code></a>
+ >
+ <a href="https://archlinux.org/"><code><img alt="ArchLinux" height="40px" src="https://cdn.svgporn.com/logos/archlinux.svg" /></code></a>
  <a href="https://gulpjs.com"><code><img alt="gulp" height="40px" src="https://cdn.svgporn.com/logos/gulp.svg" /></code></a>
  <a href="https://babeljs.io"><code><img alt="babel" height="40px" src="https://cdn.svgporn.com/logos/babel.svg" /></code></a>
  <a href="https://eslint.org"><code><img alt="eslint" height="40px" src="https://cdn.svgporn.com/logos/eslint.svg" /></code></a>
@@ -40,9 +44,7 @@ Check out [my full résumé][resume] to see if my skills would be helpful to you
  <a href="https://npmjs.com"><code><img alt="npm" height="40px" src="https://cdn.svgporn.com/logos/npm-icon.svg" /></code></a>
  <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><code><img alt="bash" height="40px" src="https://cdn.svgporn.com/logos/bash-icon.svg" /></code></a>
  <a href="https://www.markdownguide.org"><code><img alt="markdown" height="40px" src="https://cdn.svgporn.com/logos/markdown.svg" /></code></a>
- <a href="https://git-scm.com"><code><img alt="git" height="40px" src="https://cdn.svgporn.com/logos/git-icon.svg" /></code></a>
  <a href="https://github.com"><code><img alt="github" height="40px" src="https://cdn.svgporn.com/logos/github-icon.svg" /></code></a>
- <a href="https://jestjs.io"><code><img alt="jest" height="40px" src="https://cdn.svgporn.com/logos/jest.svg" /></code></a>
  <a href="https://code.visualstudio.com"><code><img alt="vscode" height="40px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" /></code></a>
  <a href="https://figma.com"><code><img alt="figma" height="40px" src="https://cdn.svgporn.com/logos/figma.svg" /></code></a>
  <a href="https://www.adobe.com/ru/products/photoshop.html"><code><img alt="photoshop" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" /></code></a>
