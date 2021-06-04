@@ -28,11 +28,9 @@ Check out [my full CV][resume]
  <a href="https://reactjs.org/"><code><img alt="React" height="40px" src="https://cdn.svgporn.com/logos/react.svg" /></code></a>
  <a href="https://redux.js.org"><code><img alt="Redux" height="40px" src="https://cdn.svgporn.com/logos/redux.svg" /></code></a>
  <a href="https://redux-saga.js.org/"><code><img alt="Saga" height="40px" src="https://cdn.svgporn.com/logos/redux-saga.svg" /></code></a>
- <a href="https://www.chartjs.org"><code><img alt="chartjs" height="40px" src="https://www.chartjs.org/img/chartjs-logo.svg" /></code></a>
  <a href="https://www.postgresql.org/"><code><img alt="PostgreSQL" height="40px" src="https://cdn.svgporn.com/logos/postgresql.svg" /></code></a>
  <a href="https://jestjs.io"><code><img alt="jest" height="40px" src="https://cdn.svgporn.com/logos/jest.svg" /></code></a>
  <a href="https://webpack.js.org"><code><img alt="webpack" height="40px" src="https://cdn.svgporn.com/logos/webpack.svg" /></code></a
- <a href="https://git-scm.com"><code><img alt="git" height="40px" src="https://cdn.svgporn.com/logos/git-icon.svg" /></code></a>
 </p>
 
 #### :wrench: Known tools and other software:
@@ -52,7 +50,6 @@ Check out [my full CV][resume]
  <a href="https://github.com"><code><img alt="github" height="40px" src="https://cdn.svgporn.com/logos/github-icon.svg" /></code></a>
  <a href="https://www.atlassian.com/software/jira"><code><img alt="Jira" height="40px" src="https://cdn.svgporn.com/logos/jira.svg" /></code></a>
  <a href="https://figma.com"><code><img alt="figma" height="40px" src="https://cdn.svgporn.com/logos/figma.svg" /></code></a>
- <a href="https://www.adobe.com/ru/products/photoshop.html"><code><img alt="photoshop" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" /></code></a>
 </p>
 
 ![](https://img.shields.io/github/last-commit/muratx10/muratx10?label=readme%20last%20updated&logo=github&logoColor=green&style=for-the-badge)
