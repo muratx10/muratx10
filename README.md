@@ -6,7 +6,7 @@
 
 My name's **Murat**. I'm a Frontend Engineer.
 
-[![Linkedin](https://img.shields.io/badge/-muratx10-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muratx10/)](https://www.linkedin.com/in/vvasyliev/)
+[![Linkedin](https://img.shields.io/badge/-muratx10-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muratx10/)](https://www.linkedin.com/in/muratx10/)
 [![Telegram](https://img.shields.io/badge/-muratx10-0088cc?style=flat&logo=Telegram&logoColor=white&link=https://web.telegram.org/#/im?p=@muratx10)](https://web.telegram.org/#/im?p=@muratx10)
 
 
