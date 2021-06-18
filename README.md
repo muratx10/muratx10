@@ -34,6 +34,7 @@ Check out [my full CV][resume]
  <a href="https://www.postgresql.org/"><code><img alt="PostgreSQL" height="40px" src="https://cdn.svgporn.com/logos/postgresql.svg" /></code></a>
  <a href="https://jestjs.io"><code><img alt="jest" height="40px" src="https://cdn.svgporn.com/logos/jest.svg" /></code></a>
  <a href="https://webpack.js.org"><code><img alt="webpack" height="40px" src="https://cdn.svgporn.com/logos/webpack.svg" /></code></a
+ <a href="https://www.docker.com/"><code><img alt="docker" height="40px" src="https://cdn.svgporn.com/logos/docker.svg" /></code></a
 </p>
 
 #### :wrench: Known tools and other software:
