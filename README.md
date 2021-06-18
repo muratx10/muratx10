@@ -41,6 +41,7 @@ Check out [my full CV][resume]
 #### :wrench: Known tools and other software:
 
 <p>
+ <a href="https://www.linux.org/"><code><img alt="Linux" height="40px" src="https://cdn.svgporn.com/logos/linux-tux.svg" /></code></a>
  <a href="https://archlinux.org/"><code><img alt="ArchLinux" height="40px" src="https://cdn.svgporn.com/logos/archlinux.svg" /></code></a>
  <a href="https://lp.jetbrains.com/webstorm-ide/?gclid=CjwKCAjwqcKFBhAhEiwAfEr7zdXEy0V6aAqOarZazg-gWFG5wbRodvUGGfZekTo2fp0rAglgA8fGNRoCmzIQAvD_BwE&gclsrc=aw.ds"><code><img alt="WebStorm" height="40px" src="https://cdn.svgporn.com/logos/webstorm.svg" /></code></a>
  <a href="https://gulpjs.com"><code><img alt="gulp" height="40px" src="https://cdn.svgporn.com/logos/gulp.svg" /></code></a>
