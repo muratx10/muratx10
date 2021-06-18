@@ -38,7 +38,7 @@ Check out [my full CV][resume]
  <a href="https://www.nginx.com/"><code><img alt="nginx" height="40px" src="https://cdn.svgporn.com/logos/nginx.svg" /></code></a
 </p>
 
-#### :wrench: Known tools and other software:
+#### :wrench: Everyday used tools and other software:
 
 <p>
 <a href="https://www.apple.com/macos/"><code><img alt="macOS" height="40px" src="https://cdn.svgporn.com/logos/macOS.svg" /></code></a>
