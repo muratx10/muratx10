@@ -57,6 +57,7 @@ Check out [my full CV][resume]
  <a href="https://github.com"><code><img alt="github" height="40px" src="https://cdn.svgporn.com/logos/github-icon.svg" /></code></a>
  <a href="https://www.atlassian.com/software/jira"><code><img alt="Jira" height="40px" src="https://cdn.svgporn.com/logos/jira.svg" /></code></a>
  <a href="https://figma.com"><code><img alt="figma" height="40px" src="https://cdn.svgporn.com/logos/figma.svg" /></code></a>
+ <a href="https://www.postman.com/"><code><img alt="Postman" height="40px" src="https://cdn.svgporn.com/logos/postman-icon.svg" /></code></a>
 </p>
 
 ![](https://img.shields.io/github/last-commit/muratx10/muratx10?label=readme%20last%20updated&logo=github&logoColor=green&style=for-the-badge)
