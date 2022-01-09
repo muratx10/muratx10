@@ -65,6 +65,7 @@ Check out [my full CV][resume]
 ![](https://img.shields.io/github/last-commit/muratx10/muratx10?label=readme%20last%20updated&logo=github&logoColor=green&style=for-the-badge)
   
 <!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muratx10&count_private=true&layout=compact&include_all_commits=true&show_icons=true&hide_title=true)](https://github.com/muratx10/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muratx10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [resume]: https://drive.google.com/file/d/1h79IldRvGjMrzVrRbEj6IQ5znSaWCO3O/view
 [comment]: <> (Resume is displayed using the google docs viewer trick)
