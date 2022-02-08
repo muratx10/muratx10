@@ -66,6 +66,6 @@ Check out [my full CV][resume]
   
 <!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muratx10&count_private=true&layout=compact&include_all_commits=true&show_icons=true&hide_title=true)](https://github.com/muratx10/github-readme-stats) -->
 
-[resume]: https://drive.google.com/file/d/1h79IldRvGjMrzVrRbEj6IQ5znSaWCO3O/view
+[resume]: https://bit.ly/3oqYzN7
 [comment]: <> (Resume is displayed using the google docs viewer trick)
 [comment]: <> (URL is: https://docs.google.com/viewer?url={link_to_raw_pdf})
