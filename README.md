@@ -38,7 +38,8 @@ Check out [my full CV][resume]
  <a href="https://webpack.js.org"><code><img alt="webpack" height="40px" src="https://cdn.svgporn.com/logos/webpack.svg" /></code></a
  <a href="https://www.docker.com/"><code><img alt="docker" height="40px" src="https://cdn.svgporn.com/logos/docker-icon.svg" /></code></a
  <a href="https://www.nginx.com/"><code><img alt="nginx" height="40px" src="https://cdn.svgporn.com/logos/nginx.svg" /></code></a
- <a href="https://www.shopify.com/"><code><img alt="nginx" height="40px" src="https://cdn.svgporn.com/logos/shopify.svg" /></code></a
+ <a href="https://www.shopify.com/"><code><img alt="Shopify" height="40px" src="https://cdn.svgporn.com/logos/shopify.svg" /></code></a
+ <a href="https://cloud.google.com/"><code><img alt="nginx" height="40px" src="https://cdn.svgporn.com/logos/google-cloud.svg" /></code></a
 </p>
 
 #### :wrench: Everyday used tools and other software:
