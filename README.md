@@ -4,7 +4,7 @@
 
 
 
-My name's **Murat**. I'm a Frontend Engineer.
+Welcome to my GitHub repository! Here you will find a collection of my personal projects and contributions to open-source projects. I am a highly skilled JavaScript developer with a focus on front-end development using React and some experience in back-end development using Node.js. I am passionate about creating visually stunning and responsive user interfaces that are intuitive and easy to navigate. Feel free to explore my projects and contributions, and don't hesitate to reach out if you have any questions or suggestions.
 
 [![Linkedin](https://img.shields.io/badge/-muratx10-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muratx10/)](https://www.linkedin.com/in/muratx10/)
 [![Telegram](https://img.shields.io/badge/-muratx10-0088cc?style=flat&logo=Telegram&logoColor=white&link=https://web.telegram.org/#/im?p=@muratx10)](https://web.telegram.org/#/im?p=@muratx10)
