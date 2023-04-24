@@ -37,16 +37,7 @@ Welcome to my GitHub repository! Here you will find a collection of my personal 
 <p>
 <a href="https://www.apple.com/macos/"><code><img alt="macOS" height="40px" src="https://cdn.svgporn.com/logos/macOS.svg" /></code></a>
  <a href="https://www.linux.org/"><code><img alt="Linux" height="40px" src="https://cdn.svgporn.com/logos/linux-tux.svg" /></code></a>
- <a href="https://archlinux.org/"><code><img alt="ArchLinux" height="40px" src="https://cdn.svgporn.com/logos/archlinux.svg" /></code></a>
  <a href="https://lp.jetbrains.com/webstorm-ide/?gclid=CjwKCAjwqcKFBhAhEiwAfEr7zdXEy0V6aAqOarZazg-gWFG5wbRodvUGGfZekTo2fp0rAglgA8fGNRoCmzIQAvD_BwE&gclsrc=aw.ds"><code><img alt="WebStorm" height="40px" src="https://cdn.svgporn.com/logos/webstorm.svg" /></code></a>
- <a href="https://gulpjs.com"><code><img alt="gulp" height="40px" src="https://cdn.svgporn.com/logos/gulp.svg" /></code></a>
- <a href="https://babeljs.io"><code><img alt="babel" height="40px" src="https://cdn.svgporn.com/logos/babel.svg" /></code></a>
- <a href="https://eslint.org"><code><img alt="eslint" height="40px" src="https://cdn.svgporn.com/logos/eslint.svg" /></code></a>
- <a href="https://editorconfig.org"><code><img alt="editorconfig" height="40px" src="https://pbs.twimg.com/profile_images/1859373103/edcon_color_transbg2_400x400.png" /></code></a>
- <a href="https://prettier.io"><code><img alt="prettier" height="40px" src="https://cdn.svgporn.com/logos/prettier.svg" /></code></a>
- <a href="https://yarnpkg.com"><code><img alt="yarn" height="40px" src="https://cdn.svgporn.com/logos/yarn.svg" /></code></a>
- <a href="https://npmjs.com"><code><img alt="npm" height="40px" src="https://cdn.svgporn.com/logos/npm-icon.svg" /></code></a>
- <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><code><img alt="bash" height="40px" src="https://cdn.svgporn.com/logos/bash-icon.svg" /></code></a>
  <a href="https://www.markdownguide.org"><code><img alt="markdown" height="40px" src="https://cdn.svgporn.com/logos/markdown.svg" /></code></a>
  <a href="https://github.com"><code><img alt="github" height="40px" src="https://cdn.svgporn.com/logos/github-icon.svg" /></code></a>
  <a href="https://www.atlassian.com/software/jira"><code><img alt="Jira" height="40px" src="https://cdn.svgporn.com/logos/jira.svg" /></code></a>
