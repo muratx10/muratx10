@@ -2,7 +2,8 @@
 
 <img align="right" alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=muratx10&count_private=true&bg_color=0,C04848,480048&title_color=fff&text_color=fff&&icon_color=fff&show_icons=true&theme=radical" />
 
-Welcome to my GitHub repository! Here you will find a collection of my personal projects and contributions to open-source projects. I am a highly skilled JavaScript developer with a focus on front-end development using React and some experience in back-end development using Node.js. I am passionate about creating visually stunning and responsive user interfaces that are intuitive and easy to navigate. Feel free to explore my projects and contributions, and don't hesitate to reach out if you have any questions or suggestions.
+Welcome to my GitHub repository! 6+ years as a frontend engineer, primarily working with TypeScript and React. Experience ranges from building a map library handling 1M+ data points to developing retail/e-commerce systems and third-party integrations. Additionally experienced with Node.js (NestJS), Docker, PostgreSQL, and deployments on GCP/AWS. Comfortable working in fast-moving startups and cross-functional engineering environments.
+
 
 [![Telegram](https://img.shields.io/badge/-muratx10-0088cc?style=flat&logo=Telegram&logoColor=white&link=https://web.telegram.org/#/im?p=@muratx10)](https://web.telegram.org/#/im?p=@muratx10)
 
