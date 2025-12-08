@@ -1,6 +1,6 @@
 ### Hi there :metal:
 
-<img align="right" alt="Github stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=muratx10&show_icons=true&theme=radical&count_private=true" />
+<img align="right" alt="Github stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=muratx10&show_icons=true&theme=gruvbox&count_private=true" />
 
 Welcome to my GitHub repository! 6+ years as a frontend engineer, primarily working with TypeScript and React. Experience ranges from building a map library handling 1M+ data points to developing retail/e-commerce systems and third-party integrations. Additionally experienced with Node.js (NestJS), Docker, PostgreSQL, and deployments on GCP/AWS. Comfortable working in fast-moving startups and cross-functional engineering environments.
 
