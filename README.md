@@ -2,7 +2,7 @@
 
 <img align="right" alt="Github stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=muratx10&show_icons=true&theme=gruvbox&count_private=true" />
 
-Welcome to my GitHub repository! 6+ years as a Fullstack engineer, primarily working with React/NodeJS. Experience ranges from building a map library handling 1M+ data points to developing retail/e-commerce systems and third-party integrations. Experienced with NestJS, Docker, PostgreSQL, and deployments on GCP/AWS. Comfortable working in fast-moving startups and cross-functional engineering environments.
+Senior Fullstack Engineer, 6+ years. React, TypeScript, Node.js, NestJS, PostgreSQL. Built a custom map library rendering 1M+ data points with Canvas, spatial indexing and real-time updates. Day-to-day: e-commerce systems, third-party integrations, internal tooling. Docker, GCP/AWS. Startup-paced, product-minded.
 
 
 [![Telegram](https://img.shields.io/badge/-muratx10-0088cc?style=flat&logo=Telegram&logoColor=white&link=https://web.telegram.org/#/im?p=@muratx10)](https://web.telegram.org/#/im?p=@muratx10)
