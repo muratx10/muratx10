@@ -2,7 +2,7 @@
 
 <img align="right" alt="Github stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=muratx10&show_icons=true&theme=gruvbox&count_private=true" />
 
-Senior Fullstack Engineer, 6+ years. React, TypeScript, Node.js, NestJS, PostgreSQL. Built a custom map library rendering 1M+ data points with Canvas, spatial indexing and real-time updates. Day-to-day: e-commerce systems, third-party integrations, internal tooling. Docker, GCP/AWS. Startup-paced, product-minded.
+Senior Fullstack Engineer, 6+ years. React, TypeScript, Node.js, NestJS, Go PostgreSQL. Built a custom map library rendering 1M+ data points with Canvas, spatial indexing and real-time updates. Day-to-day: e-commerce systems, third-party integrations, internal tooling. Docker, GCP/AWS. Startup-paced, product-minded.
 
 
 [![Telegram](https://img.shields.io/badge/-muratx10-0088cc?style=flat&logo=Telegram&logoColor=white&link=https://web.telegram.org/#/im?p=@muratx10)](https://web.telegram.org/#/im?p=@muratx10)
@@ -24,6 +24,7 @@ Senior Fullstack Engineer, 6+ years. React, TypeScript, Node.js, NestJS, Postgre
  <a href="https://www.postgresql.org/"><code><img alt="PostgreSQL" height="40px" src="https://cdn.svgporn.com/logos/postgresql.svg" /></code></a>
  <a href="https://nextjs.org/"><code><img alt="nextjs" height="40px" src="https://cdn.svgporn.com/logos/nextjs.svg" /></code></a>
  <a href="https://nestjs.com/"><code><img alt="nestjs" height="40px" src="https://cdn.svgporn.com/logos/nestjs.svg" /></code></a>
+ <a href="https://go.dev/"><code><img alt="Go" height="40px" src="https://cdn.svgporn.com/logos/go.svg" /></code></a>
  <a href="https://jestjs.io"><code><img alt="jest" height="40px" src="https://cdn.svgporn.com/logos/jest.svg" /></code></a>
  <a href="https://webpack.js.org"><code><img alt="webpack" height="40px" src="https://cdn.svgporn.com/logos/webpack.svg" /></code></a
  <a href="https://www.docker.com/"><code><img alt="docker" height="40px" src="https://cdn.svgporn.com/logos/docker-icon.svg" /></code></a
