@@ -2,7 +2,9 @@
 
 <img align="right" alt="Github stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=muratx10&show_icons=true&theme=gruvbox&count_private=true" />
 
-Senior Fullstack Engineer, 6+ years. React, TypeScript, Node.js, NestJS, Go PostgreSQL. Built a custom map library rendering 1M+ data points with Canvas, spatial indexing and real-time updates. Day-to-day: e-commerce systems, third-party integrations, internal tooling. Docker, GCP/AWS. Startup-paced, product-minded.
+Senior Fullstack Engineer, 6+ years across React, TypeScript, Next.js, and Node.js. Frontend architecture, API design, and backend systems.
+I've worked across e-commerce platforms, SaaS products, B2B dashboards, healthcare apps, and telecom tools - building everything from checkout flows to real-time data systems handling 1M+ data points.
+Startup-paced, product-minded.
 
 
 [![Telegram](https://img.shields.io/badge/-muratx10-0088cc?style=flat&logo=Telegram&logoColor=white&link=https://web.telegram.org/#/im?p=@muratx10)](https://web.telegram.org/#/im?p=@muratx10)
