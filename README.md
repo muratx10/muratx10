@@ -34,19 +34,6 @@ Startup-paced, product-minded.
  <a href="https://www.shopify.com/"><code><img alt="Shopify" height="40px" src="https://cdn.svgporn.com/logos/shopify.svg" /></code></a
  <a href="https://cloud.google.com/"><code><img alt="nginx" height="40px" src="https://cdn.svgporn.com/logos/google-cloud.svg" /></code></a
 </p>
-
-#### :wrench: Everyday used tools and other software:
-
-<p>
-<a href="https://www.apple.com/macos/"><code><img alt="macOS" height="40px" src="https://cdn.svgporn.com/logos/macOS.svg" /></code></a>
- <a href="https://www.linux.org/"><code><img alt="Linux" height="40px" src="https://cdn.svgporn.com/logos/linux-tux.svg" /></code></a>
- <a href="https://lp.jetbrains.com/webstorm-ide/?gclid=CjwKCAjwqcKFBhAhEiwAfEr7zdXEy0V6aAqOarZazg-gWFG5wbRodvUGGfZekTo2fp0rAglgA8fGNRoCmzIQAvD_BwE&gclsrc=aw.ds"><code><img alt="WebStorm" height="40px" src="https://cdn.svgporn.com/logos/webstorm.svg" /></code></a>
- <a href="https://www.markdownguide.org"><code><img alt="markdown" height="40px" src="https://cdn.svgporn.com/logos/markdown.svg" /></code></a>
- <a href="https://github.com"><code><img alt="github" height="40px" src="https://cdn.svgporn.com/logos/github-icon.svg" /></code></a>
- <a href="https://www.atlassian.com/software/jira"><code><img alt="Jira" height="40px" src="https://cdn.svgporn.com/logos/jira.svg" /></code></a>
- <a href="https://figma.com"><code><img alt="figma" height="40px" src="https://cdn.svgporn.com/logos/figma.svg" /></code></a>
- <a href="https://www.postman.com/"><code><img alt="Postman" height="40px" src="https://cdn.svgporn.com/logos/postman-icon.svg" /></code></a>
-</p>
   
 <!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muratx10&count_private=true&layout=compact&include_all_commits=true&show_icons=true&hide_title=true)](https://github.com/muratx10/github-readme-stats) -->
 
