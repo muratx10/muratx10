@@ -19,7 +19,6 @@ Startup-paced, product-minded.
  <a href="https://nextjs.org/"><code><img alt="Next.js" height="40px" src="https://cdn.svgporn.com/logos/nextjs.svg" /></code></a>
  <a href="https://nestjs.com/"><code><img alt="NestJS" height="40px" src="https://cdn.svgporn.com/logos/nestjs.svg" /></code></a>
  <a href="https://redux.js.org"><code><img alt="Redux" height="40px" src="https://cdn.svgporn.com/logos/redux.svg" /></code></a>
- <a href="https://tanstack.com/"><code><img alt="TanStack" height="40px" src="https://cdn.svgporn.com/logos/tanstack-icon.svg" /></code></a>
  <a href="https://zod.dev/"><code><img alt="Zod" height="40px" src="https://cdn.svgporn.com/logos/zod.svg" /></code></a>
  <a href="https://graphql.org/"><code><img alt="GraphQL" height="40px" src="https://cdn.svgporn.com/logos/graphql.svg" /></code></a>
  <a href="https://www.postgresql.org/"><code><img alt="PostgreSQL" height="40px" src="https://cdn.svgporn.com/logos/postgresql.svg" /></code></a>
