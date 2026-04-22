@@ -27,13 +27,13 @@ Startup-paced, product-minded.
  <a href="https://www.shopify.com/"><code><img alt="Shopify" height="40px" src="https://cdn.svgporn.com/logos/shopify.svg" /></code></a>
  <a href="https://playwright.dev/"><code><img alt="Playwright" height="40px" src="https://cdn.svgporn.com/logos/playwright.svg" /></code></a>
  <a href="https://jestjs.io"><code><img alt="Jest" height="40px" src="https://cdn.svgporn.com/logos/jest.svg" /></code></a>
- <a href="https://n8n.io/"><code><img alt="n8n" height="40px" src="https://cdn.svgporn.com/logos/n8n.svg" /></code></a>
+ <a href="https://n8n.io/"><code><img alt="n8n" height="40px" src="https://commons.wikimedia.org/wiki/File:N8n-logo-new.svg" /></code></a>
  <a href="https://www.docker.com/"><code><img alt="Docker" height="40px" src="https://cdn.svgporn.com/logos/docker-icon.svg" /></code></a>
  <a href="https://www.nginx.com/"><code><img alt="Nginx" height="40px" src="https://cdn.svgporn.com/logos/nginx.svg" /></code></a>
  <a href="https://cloud.google.com/"><code><img alt="GCP" height="40px" src="https://cdn.svgporn.com/logos/google-cloud.svg" /></code></a>
  <a href="https://www.terraform.io/"><code><img alt="Terraform" height="40px" src="https://cdn.svgporn.com/logos/terraform-icon.svg" /></code></a>
  <a href="https://en.wikipedia.org/wiki/HTML"><code><img alt="HTML5" height="40px" src="https://cdn.svgporn.com/logos/html-5.svg" /></code></a>
- <a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets"><code><img alt="CSS3" height="40px" src="https://cdn.svgporn.com/logos/css-3.svg" /></code></a>
+ <a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets"><code><img alt="CSS3" height="40px" src="https://commons.wikimedia.org/wiki/File:Official_CSS_Logo.svg" /></code></a>
  <a href="https://sass-lang.com"><code><img alt="Sass" height="40px" src="https://cdn.svgporn.com/logos/sass.svg" /></code></a>
 </p>
 
