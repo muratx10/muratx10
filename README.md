@@ -3,7 +3,7 @@
 
 Senior Fullstack Engineer, 6+ years across TypeScript, React, Next.js, and Node.js. Frontend architecture, API design, and backend systems.
 
-I've worked across e-commerce (Shopify), health & wellness, telecom, and healthcare - building everything from checkout migrations that cut cart abandonment ~18% to map libraries rendering 1M+ data points in real time.
+I've worked across e-commerce, health & wellness, telecom, and healthcare - building everything from checkout migrations that cut cart abandonment ~18% to map libraries rendering 1M+ data points in real time.
 
 Startup-paced, product-minded.
 
