@@ -7,6 +7,7 @@ I've worked across e-commerce, health & wellness, telecom, and healthcare - buil
 
 Startup-paced, product-minded.
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/muratx10)
 [![Telegram](https://img.shields.io/badge/-muratx10-0088cc?style=flat&logo=Telegram&logoColor=white&link=https://web.telegram.org/#/im?p=@muratx10)](https://web.telegram.org/#/im?p=@muratx10)
 
 #### :white_check_mark: Have experience with:
