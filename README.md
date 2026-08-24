@@ -1,5 +1,4 @@
 ### Hi there :metal:
-<img align="right" alt="Github stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=muratx10&show_icons=true&theme=gruvbox&count_private=true" />
 
 Senior Fullstack Engineer, 6+ years across TypeScript, React, Next.js, and Node.js. Frontend architecture, API design, and backend systems.
 
